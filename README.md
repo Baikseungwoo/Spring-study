@@ -40,3 +40,21 @@ for  learning Spring in GDG study
 </table>
 
 <br>
+
+2024.10.03 (목)
+
+**Section 01,02. 강의 소개, 프로젝트 환경설정**
+
+* 승우 <a href="">Section1,2 정리자료</a>
+* 영진 <a href="">Section1,2 정리자료</a>
+* 유영 <a href="">Section1,2 정리자료</a>
+<br>
+
+2024.10.10 (목)
+
+**Section 03. 스프링 웹 개발 기초**
+
+* 승우 <a href="">Section3 정리자료</a>
+* 영진 <a href="">Section3 정리자료</a>
+* 유영 <a href="">Section3 정리자료</a>
+<br>
