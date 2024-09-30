@@ -19,7 +19,7 @@ for  learning Spring in GDG study
 <tr align="center">
 <td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%;"></td>
-<td><img src="https://avatars.githubusercontent.com/u/129071350?v=4" style="width:95%; "></td>
+<td><img src="" style="width:95%; "></td>
 </tr>
 
 
