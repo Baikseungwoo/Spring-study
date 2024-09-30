@@ -9,7 +9,9 @@ for  learning Spring in GDG study
 
 3. 일시: 매주 목요일 GDG 세션 시작 전
 4. 진도: 매주 한 세션 씩
-5. 진행 방향: 매주 한 세션 강의 듣고 공부 ➡️ 블로그에 내용 정리 ➡️ 매주 개인 질문 1개 이상 정리 ➡️ 질문 공유 후 토론
+   ![스터기 커리](https://github.com/user-attachments/assets/32264605-6e80-4a9d-a71b-75af149582e8)
+
+6. 진행 방향: 매주 한 세션 강의 듣고 공부 ➡️ 블로그에 내용 정리 ➡️ 매주 개인 질문 1개 이상 정리 ➡️ 질문 공유 후 토론
 
 <br>
 
@@ -19,7 +21,7 @@ for  learning Spring in GDG study
 <tr align="center">
 <td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%;"></td>
-<td><img src="" style="width:95%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%; "></td>
 </tr>
 
 
