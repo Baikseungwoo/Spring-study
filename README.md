@@ -21,21 +21,25 @@ for  learning Spring in GDG study
 <tr align="center">
 <td><img src="https://avatars.githubusercontent.com/u/92345780?v=4" style="width:95%;"></td>
 <td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%;"></td>
-<td><img src="https://avatars.githubusercontent.com/u/156926628?v=4" style="width:95%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/181312333?v=4" style="width:95%; "></td>
+<td><img src="https://avatars.githubusercontent.com/u/137254772?v=4" style="width:95%; "></td>
 </tr>
 
 
 <tr align="center">
 <td><a href="https://github.com/baikseungwoo">승우</td>
 <td><a href="https://github.com/J0725">영진</td>
-<td><a href="">유영</td>
+<td><a href="https://github.com/yuyoung924">유영</td>
+<td><a href="https://github.com/protruser">수용</td>
+
 </tr>
 
 
 <tr align="center">
 <td><a href="https://velog.io/@swbaik01/posts">승우 블로그</td>
 <td><a href="https://velog.io/@younjin_02/posts">영진 블로그</td>
-<td><a href="">유영 블로그</td>
+<td><a href="https://velog.io/@yuyoung924/posts">유영 블로그</td>
+<td><a href="https://protruser.tistory.com">수용 블로그</td>
 </tr>
 </table>
 
@@ -48,6 +52,7 @@ for  learning Spring in GDG study
 * 승우 <a href="">Section1,2 정리자료</a>
 * 영진 <a href="">Section1,2 정리자료</a>
 * 유영 <a href="">Section1,2 정리자료</a>
+* 수용 <a href="">Section1,2 정리자료</a>
 <br>
 
 2024.10.10 (목)
@@ -57,4 +62,15 @@ for  learning Spring in GDG study
 * 승우 <a href="">Section3 정리자료</a>
 * 영진 <a href="">Section3 정리자료</a>
 * 유영 <a href="">Section3 정리자료</a>
+* 수용 <a href="">Section3 정리자료</a>
+<br>
+
+2024.10.10 (목)
+
+**Section 04. 회원 관리 예제 - 백엔드 개발**
+
+* 승우 <a href="">Section4 정리자료</a>
+* 영진 <a href="">Section4 정리자료</a>
+* 유영 <a href="">Section4 정리자료</a>
+* 수용 <a href="">Section4 정리자료</a>
 <br>
