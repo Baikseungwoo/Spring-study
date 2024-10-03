@@ -49,7 +49,7 @@ for  learning Spring in GDG study
 
 **Section 01,02. 강의 소개, 프로젝트 환경설정**
 
-* 승우 <a href="">Section1,2 정리자료</a>
+* 승우 <a href="https://velog.io/@swbaik01/Spring-프로젝트-환경설정">Section1,2 정리자료</a>
 * 영진 <a href="https://velog.io/@younjin_02/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-01.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95">Section1,2 정리자료</a>
 * 유영 <a href="">Section1,2 정리자료</a>
 * 수용 <a href="">Section1,2 정리자료</a>
