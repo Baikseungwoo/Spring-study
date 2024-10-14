@@ -59,7 +59,7 @@ for  learning Spring in GDG study
 
 **Section 03. 스프링 웹 개발 기초**
 
-* 승우 <a href="">Section3 정리자료</a>
+* 승우 <a href="https://velog.io/@swbaik01/Spring-웹-개발-기초-4l82i4f8">Section3 정리자료</a>
 * 영진 <a href="">Section3 정리자료</a>
 * 유영 <a href="">Section3 정리자료</a>
 * 수용 <a href="https://protruser.tistory.com/59">Section3 정리자료</a>
