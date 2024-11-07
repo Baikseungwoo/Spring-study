@@ -65,17 +65,17 @@ for  learning Spring in GDG study
 * 수용 <a href="https://protruser.tistory.com/59">Section3 정리자료</a>
 <br>
 
-2024.10.17 (목)
+2024.11.07 (목)
 
 **Section 04. 회원 관리 예제 - 백엔드 개발**
 
-* 승우 <a href="">Section4 정리자료</a>
+* 승우 <a href="https://velog.io/@swbaik01/Spring-회원-관리-예제백엔드-개발">Section4 정리자료</a>
 * 영진 <a href="https://velog.io/@younjin_02/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-03.-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C">Section4 정리자료</a>
 * 유영 <a href="">Section4 정리자료</a>
 * 수용 <a href="">Section4 정리자료</a>
 <br>
 
-2024.10.31 (목)
+2024.11.14 (목)
 
 **Section 05. 스프링 빈과 의존관계**
 
