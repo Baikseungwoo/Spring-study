@@ -51,7 +51,7 @@ for  learning Spring in GDG study
 
 * 승우 <a href="https://velog.io/@swbaik01/Spring-프로젝트-환경설정">Section1,2 정리자료</a>
 * 영진 <a href="https://velog.io/@younjin_02/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-01.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95">Section1,2 정리자료</a>
-* 유영 <a href="">Section1,2 정리자료</a>
+* 유영 <a href="https://velog.io/@yuyoung924/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-01.-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1">Section1,2 정리자료</a>
 * 수용 <a href="">Section1,2 정리자료</a>
 <br>
 
@@ -61,7 +61,7 @@ for  learning Spring in GDG study
 
 * 승우 <a href="https://velog.io/@swbaik01/Spring-웹-개발-기초-4l82i4f8">Section3 정리자료</a>
 * 영진 <a href="https://velog.io/@younjin_02/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-02.-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88">Section3 정리자료</a>
-* 유영 <a href="">Section3 정리자료</a>
+* 유영 <a href="https://velog.io/@yuyoung924/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-02.-%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9B%B9-%EA%B0%9C%EB%B0%9C-%EA%B8%B0%EC%B4%88">Section3 정리자료</a>
 * 수용 <a href="https://protruser.tistory.com/59">Section3 정리자료</a>
 <br>
 
@@ -71,7 +71,7 @@ for  learning Spring in GDG study
 
 * 승우 <a href="https://velog.io/@swbaik01/Spring-회원-관리-예제백엔드-개발">Section4 정리자료</a>
 * 영진 <a href="https://velog.io/@younjin_02/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-03.-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C">Section4 정리자료</a>
-* 유영 <a href="">Section4 정리자료</a>
+* 유영 <a href="https://velog.io/@yuyoung924/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-03.-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C">Section4 정리자료</a>
 * 수용 <a href="https://protruser.tistory.com/59">Section4 정리자료</a>
 <br>
 
