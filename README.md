@@ -80,7 +80,7 @@ for  learning Spring in GDG study
 **Section 05. 스프링 빈과 의존관계**
 
 * 승우 <a href="https://velog.io/@swbaik01/Spring-스프링-빈과-의존관계">Section5 정리자료</a>
-* 영진 <a href="">Section5 정리자료</a>
+* 영진 <a href="https://velog.io/@younjin_02/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-04.-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B9%88%EA%B3%BC-%EC%9D%98%EC%A1%B4%EA%B4%80%EA%B3%84">Section5 정리자료</a>
 * 유영 <a href="">Section5 정리자료</a>
 * 수용 <a href="https://protruser.tistory.com/60">Section5 정리자료</a>
 <br>
