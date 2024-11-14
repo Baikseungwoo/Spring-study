@@ -85,4 +85,14 @@ for  learning Spring in GDG study
 * 수용 <a href="https://protruser.tistory.com/60">Section5 정리자료</a>
 <br>
 
+2024.11.21 (목)
+
+**Section 06. 회원 관리 예제 - 웹 MVC 개발**
+
+* 승우 <a href="">Section6 정리자료</a>
+* 영진 <a href="">Section6 정리자료</a>
+* 유영 <a href="">Section6 정리자료</a>
+* 수용 <a href="">Section6 정리자료</a>
+<br>
+
 
