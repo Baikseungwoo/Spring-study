@@ -92,7 +92,7 @@ for  learning Spring in GDG study
 * 승우 <a href="">Section6 정리자료</a>
 * 영진 <a href="">Section6 정리자료</a>
 * 유영 <a href="">Section6 정리자료</a>
-* 수용 <a href="">Section6 정리자료</a>
+* 수용 <a href="https://protruser.tistory.com/61">Section6 정리자료</a>
 <br>
 
 
