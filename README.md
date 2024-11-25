@@ -89,7 +89,7 @@ for  learning Spring in GDG study
 
 **Section 06. 회원 관리 예제 - 웹 MVC 개발**
 
-* 승우 <a href="">Section6 정리자료</a>
+* 승우 <a href="https://velog.io/@swbaik01/Spring-회원-관리-예제-웹-MVC-개발">Section6 정리자료</a>
 * 영진 <a href="https://velog.io/@younjin_02/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-05.-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-%EC%9B%B9-MVC-%EA%B0%9C%EB%B0%9C">Section6 정리자료</a>
 * 유영 <a href="https://velog.io/@yuyoung924/Spring-%EC%8A%A4%ED%84%B0%EB%94%94-06.-%ED%9A%8C%EC%9B%90-%EA%B4%80%EB%A6%AC-%EC%98%88%EC%A0%9C-%EC%9B%B9-MVC-%EA%B0%9C%EB%B0%9C">Section6 정리자료</a>
 * 수용 <a href="https://protruser.tistory.com/61">Section6 정리자료</a>
